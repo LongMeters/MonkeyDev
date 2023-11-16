@@ -1,7 +1,11 @@
 1：修复MonkeyApp项目，Pch文件爆红问题
+
 2：默认删除生成的.h.m文件
+
 3：删除MDCryptManager相关引用
+
 4：解决libc++等报错异常
+
 5：默认关闭User Script sandboxing
 6：默认关闭Enable Add Subsrate
 7：默认打开Default bundleID
