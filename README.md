@@ -7,10 +7,15 @@
 4：解决libc++等报错异常
 
 5：默认关闭User Script sandboxing
+
 6：默认关闭Enable Add Subsrate
+
 7：默认打开Default bundleID
+
 8：默认打开Restore symbol
+
 9：CaptainHook项目，默认IP 127.0.0.1 端口3333 密码alpine
+
 
 
 
